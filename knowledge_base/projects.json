@@ -1,0 +1,46 @@
+[
+  {
+    "title": "MemoFormer",
+    "description": "Memory-augmented transformer for forecasting structured sequences. Applied to groundwater prediction and tumor microenvironment modeling. Combines memory tokens, autoregressive decoding, and scheduled sampling."
+  },
+  {
+    "title": "RNA BPTT Reinforcement Learning Simulator",
+    "description": "Differentiable RL framework for RNA sequence generation with motif placement, GC balance, and structure fidelity. Uses ViennaRNA folding oracle and backpropagation through time."
+  },
+  {
+    "title": "Neurofolding: RNA Design via Transformer + RL",
+    "description": "Transformer + GRU/LSTM agent for de novo RNA sequence generation with structure-aware rewards. Introduced 'Neurofolding' to describe the gradient-informed folding-aware synthesis process."
+  },
+  {
+    "title": "Clinical-Query-Assistant",
+    "description": "Fine-tuned FLAN-T5 with LoRA on NHS A\u2013Z medical data. Deployed as a lightweight chatbot via Gradio. Used PEFT for efficient tuning."
+  },
+  {
+    "title": "Autonomous Drone RL",
+    "description": "3D drone environment in PyBullet with Lidar. Trained with PPO, DDPG, and DQN. Employed reward shaping and Prioritized Experience Replay. Achieved >85% success in randomized setups."
+  },
+  {
+    "title": "Pok\u00e9mon Card Classifier",
+    "description": "EfficientNetB0 + BiLSTM classifier trained on 430k+ Pok\u00e9mon TCG card images. Achieved ~99% accuracy. Image augmentations and GPU-accelerated TensorFlow pipeline."
+  },
+  {
+    "title": "Energy Load Predictor",
+    "description": "Energy usage forecasting using XGBoost on smart building sensor data. Integrated W&B for feature tuning and visual analytics."
+  },
+  {
+    "title": "ECG Classifier with BPTT-LSTMs",
+    "description": "LSTM-based model trained using BPTT for classifying ECG rhythms (Normal, AF, Other). Achieved ~90% accuracy. Used sequence segment augmentation."
+  },
+  {
+    "title": "Maze RL Agent with Memory",
+    "description": "Tabular Q-learning with explicit memory vectors for navigating mazes with random exits. No RNNs needed. Published at the Computing Conference 2023."
+  },
+  {
+    "title": "Sentient Agent with BPTT",
+    "description": "Simulated RNN-based organism trained with BPTT to exhibit memory-based adaptive behavior in partially observable environments. Published in Adaptive Behavior 2023."
+  },
+  {
+    "title": "BCI for VR (Unity + EEG)",
+    "description": "Brain-computer interface for Unity3D using EEG signals. Enabled interactive VR object manipulation through mental commands from consumer headsets."
+  }
+]
