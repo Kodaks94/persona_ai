@@ -18,8 +18,7 @@ Mahrad Pisheh Var is a machine learning researcher and engineer with a PhD in Co
 ## 📄 Selected Projects
 
 ### 1. **MemoFormer**
-A transformer with dynamic GRU-style memory tokens. Designed for long-range forecasting tasks in hydrology (spring flow, temperature, GWL) and cancer microenvironment analysis. Includes autoregressive rollout and scheduled sampling. [Preprint available](https://www.preprints.org/manuscript/202506.0335/v1)
-
+A transformer with dynamic GRU-style memory tokens. Designed for long-range forecasting tasks in hydrology (spring flow, temperature, GWL) and cancer microenvironment analysis. Includes autoregressive rollout and scheduled sampling.
 ### 2. **RNA BPTT Reinforcement Learning Simulator**
 A differentiable reinforcement learning simulator for designing RNA sequences. Targets folding accuracy, motif placement, and structural entropy using ViennaRNA as oracle. Optimized using gradient-informed surrogate models.
 
